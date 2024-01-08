@@ -3,6 +3,10 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> I am currently working as a Middle iOS Developer
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> In my spare time I develop my own iOS projects
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" height="25" /> Creating public Swift packages
 
 <picture>
   <source
@@ -17,7 +21,8 @@
 </picture>
 
 ## App Store Apps
-
+<details>
+  <summary>Open list</summary>
 ## 🚶‍♂️ Walking Route App
 ![Static Badge](https://img.shields.io/badge/%2014%2B-blue?logo=ios&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
@@ -69,3 +74,4 @@
 
 * [Transport of Barnaul](https://apps.apple.com/app/barnaul-public-transport/id1452430457) is an application for getting current information about public transport in one particular city.
  ![Screenshots](https://i.imgur.com/3nsrNpz.png)
+  </details>
