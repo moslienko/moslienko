@@ -23,6 +23,7 @@
 ## App Store Apps
 <details>
   <summary>Open list</summary>
+  
 ## 🚶‍♂️ Walking Route App
 ![Static Badge](https://img.shields.io/badge/%2014%2B-blue?logo=ios&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
