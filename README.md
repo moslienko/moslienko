@@ -23,7 +23,16 @@
 ## App Store Apps
 <details>
   <summary>Open list</summary>
-  
+  ## 🔗 Emilie Saver
+![Static Badge](https://img.shields.io/badge/%2015%2B-blue?logo=ios&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SwiftUI-darkblue)
+![Static Badge](https://img.shields.io/badge/MVC-grey)
+![Static Badge](https://img.shields.io/badge/Core_Data-green?logo=database)
+
+* [Emilie Saver](https://apps.apple.com/ru/app/emiliesaver/id6477340392) is a personal organizer to save, manage and synchronize information in one convenient place. With this application, easily save links, images, notes and more so you can access them anytime, anywhere. Synchronization between devices in iCloud, created an extension for sharings. Access to advanced features through subscription services.
+![Screenshots](https://i.imgur.com/IrbNFlf.png)
+
 ## 🚶‍♂️ Walking Route App
 ![Static Badge](https://img.shields.io/badge/%2014%2B-blue?logo=ios&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
