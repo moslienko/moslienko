@@ -23,7 +23,8 @@
 ## App Store Apps
 <details>
   <summary>Open list</summary>
-  ## 🔗 Emilie Saver
+  
+## 🔗 Emilie Saver
 ![Static Badge](https://img.shields.io/badge/%2015%2B-blue?logo=ios&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-darkblue)
